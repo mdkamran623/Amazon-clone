@@ -36,4 +36,11 @@ A simple front-end clone of Amazon.in homepage built with HTML, CSS, and JavaScr
 └── amazon_logo.png # Logo image
 
 
+# Amazon.in Clone
 
+⚠️ DISCLAIMER: This is a frontend practice 
+project for learning HTML, CSS & JS only.
+Not affiliated with Amazon.in
+
+Built by: MD Kamran
+Purpose: Portfolio / Learning
